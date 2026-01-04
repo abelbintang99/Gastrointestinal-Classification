@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.db
+
+# Node / Vue
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+backend/app/ml/*.keras
+backend/app/ml/*.h5
