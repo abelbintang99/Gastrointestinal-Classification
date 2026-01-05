@@ -31,4 +31,3 @@ Aplikasi Full-stack yang membantu klasifikasi kondisi medis Gastrointestinal men
 ## Disclaimer
 Aplikasi ini hanya untuk tujuan edukasi. Diagnosa medis akhir harus selalu dilakukan oleh profesional medis bersertifikat.
 
-## HIT ME IF U NEED MODEL CLASSIFICATION
